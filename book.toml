@@ -11,3 +11,4 @@ enable = true
 [output.html]
 git-repository-url = "https://keepintracks.com"
 git-repository-icon = "fa-home"
+sanitize = false

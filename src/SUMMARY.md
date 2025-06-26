@@ -25,6 +25,10 @@
         - [Health tracking app](tutorials/appsheet/health-tracking-app.md)
         - [Mind tracking app](tutorials/appsheet/mind-tracking-app.md)
         - [Wealth tracking app](tutorials/appsheet/wealth-tracking-app.md)
+- [Recommendations](recommendations/index.md)
+    - [Email](recommendations/email.md)
+    - [Password manager](recommendations/password-manager.md)
+    - [Social media](recommendations/social-media.md)
 -----------
 [Contributors](misc/contributors.md)
 [References](misc/references.md)

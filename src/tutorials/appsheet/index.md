@@ -36,3 +36,4 @@ Congratulations you now created a data application. These applications can be sh
 ## Tips and tricks
 
 * Everytime the column structure is modified in Google Sheet, we need to regenerate the schema in Appsheet for that data, else the app won't work anymore.
+* If a tab schema appears with the column names from the second row values, go to the tab in Google Sheets and apply Bold to the first row, then regenerate the schema in appsheet.
